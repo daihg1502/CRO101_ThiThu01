@@ -1,0 +1,27 @@
+{
+  "nhanVien": [
+    {
+      "id": "1",
+      "hoTen": "Nguyên Văn A",
+      "gioiTinh": "Nam",
+      "ngaySinh": "20-04-2001",
+      "hopDongCT": true,
+      "hinhAnh": "https://images.pexels.com/photos/2773703/pexels-photo-2773703.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": "2",
+      "hoTen": "Nguyên Thị B",
+      "gioiTinh": "Nữ",
+      "ngaySinh": "18-05-2004",
+      "hopDongCT": false,
+      "hinhAnh": "https://images.pexels.com/photos/3616937/pexels-photo-3616937.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 3,
+      "hoTen": "Nguyen Van B",
+      "gioiTinh": "Nam",
+      "hopDongCT": true,
+      "hinhAnh": "https://images.pexels.com/photos/2773703/pexels-photo-2773703.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    }
+  ]
+}
